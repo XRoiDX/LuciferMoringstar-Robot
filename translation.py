@@ -5,19 +5,19 @@ class LuciferMoringstar(object):
     HELP_MSG = """**Help Veno Monuse 🤣**"""
 
     ABOUT_MSG = """
-🤖 My Name [{bot_name}](t.me/{bot_username})
+🤖 ᴍy ɴᴀᴍᴇ [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 ᴍy ᴅᴇᴠ : [ᵃˡᶠʳᵉᵈ ᵐᵃʳᵃˢʰᵉˡ](t.me/Space4AFML)
 
-🧑 My Creator : {dev_name}
+🧑 ᴍy ᴄʀᴇᴀᴛᴏʀ : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+📦 ᴍy ꜱᴏᴜʀᴄᴇ : [Click Here](https://t.me/Team_Venom_Bot/3)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+📺 ᴍy yᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗃️ ᴍy ʟɪʙʀᴀʀy : [Pyrogram](https://youtu.be/Af055Eozk9s)
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
+🖇️ ᴍy ʟᴀɴɢᴜᴀɢᴇ : [Python3](https://youtu.be/Af055Eozk9s)
 
 🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
 
