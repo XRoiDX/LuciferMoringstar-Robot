@@ -15,23 +15,23 @@ async def start_message(bot, message):
     if len(message.command) != 2:
         if message.from_user.id not in ADMINS: 
             buttons = [[
-             InlineKeyboardButton("➕️ Add me to ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
+             InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ᴄʜᴀᴛ ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
-             InlineKeyboardButton("ℹ️ Help", callback_data="help"),
-             InlineKeyboardButton("😎 About", callback_data="about") 
+             InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="help"),
+             InlineKeyboardButton("😎 ᴀʙᴏᴜᴛ", callback_data="about") 
              ],[
-             InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/OTqZmADyOjU"),
-             InlineKeyboardButton("🤖 Support", url="https://t.me/Mo_Tech_YT")
+             InlineKeyboardButton("🗳 ᴜᴩᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/XRoiD_BotZ"),
+             InlineKeyboardButton("🤖 ꜱᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ", url="https://t.me/XRoid_Support")
              ]]
         else:
             buttons = [[
-             InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
+             InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ᴄʜᴀᴛ ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
-             InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
-             InlineKeyboardButton("😎 About", callback_data="about") 
+             InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="bot_owner"),
+             InlineKeyboardButton("😎 ᴀʙᴏᴜᴛ", callback_data="about") 
              ],[
-             InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/OTqZmADyOjU"),
-             InlineKeyboardButton("🤖 Support", url="https://t.me/Mo_Tech_Group")
+             InlineKeyboardButton("🗳 ᴜᴩᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/XRoiD_BotZ"),
+             InlineKeyboardButton("🤖 ꜱᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ", url="https://t.me/XRoid_Support")
              ]]    
         await message.reply_photo(photo = choice(BOT_PICS), caption=START_MSG.format(mention = message.from_user.mention, bot_name = bot_info.BOT_NAME, bot_username = bot_info.BOT_USERNAME), reply_markup=InlineKeyboardMarkup(buttons))
         
