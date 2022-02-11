@@ -15,17 +15,17 @@ class LuciferMoringstar(object):
 
 📺 ᴍy yᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ : [¢ℓι¢к нєяє](https://tinyurl.com/y6wlkv8g)
 
-🗃️ ᴍy ʟɪʙʀᴀʀy : [ρуяσgяαм](https://youtu.be/Af055Eozk9s)
+🗃️ ᴍy ʟɪʙʀᴀʀy : [ρуяσgяαм](https://docs.pyrogram.org/)
 
-🖇️ ᴍy ʟᴀɴɢᴜᴀɢᴇ : [ρутнσи 3](https://youtu.be/Af055Eozk9s)
+🖇️ ᴍy ʟᴀɴɢᴜᴀɢᴇ : [ρутнσи 3](https://www.python.org/)
 
-🗃️ ᴍy ᴅᴀᴛᴀʙᴀꜱᴇ : [мσиgσ∂в](https://youtu.be/gBLTsH-IXr0)
+🗃️ ᴍy ᴅᴀᴛᴀʙᴀꜱᴇ : [мσиgσ∂в](https://www.mongodb.com/)
 
-🗳️ ᴍy ꜱᴇʀᴠᴇʀ : [нєяσкυ](https://youtu.be/xcZD55td6Vw)
+🗳️ ᴍy ꜱᴇʀᴠᴇʀ : [нєяσкυ](https://www.heroku.com/)
 
-🏷️ ᴍy ᴜᴩᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ : [χяσι∂ вσтz](t.me/Mo_Tech_YT)
+🏷️ ᴍy ᴜᴩᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ : [χяσι∂ вσтz](t.me/XRoiD_BotZ)
 
-🗣️ ᴍy ꜱᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ : [χяσι∂ ѕυρρσят](t.me/Mo_Tech_Group)"""
+🗣️ ᴍy ꜱᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ : [χяσι∂ ѕυρρσят](t.me/XRoid_Support)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
