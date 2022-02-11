@@ -19,13 +19,13 @@ class LuciferMoringstar(object):
 
 🖇️ ᴍy ʟᴀɴɢᴜᴀɢᴇ : [Python3](https://youtu.be/Af055Eozk9s)
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ ᴍy ᴅᴀᴛᴀʙᴀꜱᴇ : [Mongodb](https://youtu.be/gBLTsH-IXr0)
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
+🗳️ ᴍy ꜱᴇʀᴠᴇʀ : [Heroku](https://youtu.be/xcZD55td6Vw)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ ᴍy ᴜᴩᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ : [Mo Tech](t.me/Mo_Tech_YT)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ ᴍy ꜱᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ : [Any Doubt](t.me/Mo_Tech_Group)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
