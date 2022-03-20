@@ -17,7 +17,7 @@ async def start_message(bot, message):
             buttons = [[
              InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ᴄʜᴀᴛ ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
-             InlineKeyboardButton(text="✨ Try Inline", switch_inline_query_current_chat="",),
+             InlineKeyboardButton(text="✨ ᴛʀy ɪɴʟɪɴᴇ ✨", switch_inline_query_current_chat="",),
              ],[
              InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="help"),
              InlineKeyboardButton("😎 ᴀʙᴏᴜᴛ", callback_data="about") 
@@ -29,7 +29,7 @@ async def start_message(bot, message):
             buttons = [[
              InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ᴄʜᴀᴛ ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
-             InlineKeyboardButton(text="✨ Try Inline", switch_inline_query_current_chat="",),
+             InlineKeyboardButton(text="✨ ᴛʀy ɪɴʟɪɴᴇ ✨", switch_inline_query_current_chat="",),
              ],[
              InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="bot_owner"),
              InlineKeyboardButton("😎 ᴀʙᴏᴜᴛ", callback_data="about") 
