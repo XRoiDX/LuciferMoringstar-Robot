@@ -42,16 +42,17 @@ Hello 👋〘 {mention} 〙,
 
 Couldn't Find {query}?  Please Click Your Request Movie Name"""
     GET_MOVIE_1 = """
-📽️ Requested Movie : [{query}]({url})
-👤 Requested By : {mention}
-🎬 Title : [{title}]({url})
-📆 Year : {year}
-🌟 Rating {rating}/10
-🗨️ Genres {genres}"""
+📽️ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ : [{query}]({url})
+👤 ʀᴇqᴜᴇꜱᴛᴇᴅ ʙy : {mention}
+🎬 ᴛɪᴛʟᴇ : [{title}]({url})
+📆 yᴇᴀʀ : {year}
+🌟 ʀᴀᴛɪɴɢ {rating}/10
+🗨️ ɢᴇɴᴇʀꜱ {genres}
+🎥 ᴍʟᴍ ɴᴇᴡ ᴍᴏᴠɪᴇꜱ"""
 
 
     GET_MOVIE_2 = """
-📽️ Requested Movie : {query}
-👤 Requested By : {mention}
+📽️ ʀᴇqᴜᴇꜱᴛᴇᴅ ᴍᴏᴠɪᴇ : {query}
+👤 ʀᴇqᴜᴇꜱᴛᴇᴅ ʙy : {mention}
 
 © **{chat}**"""
