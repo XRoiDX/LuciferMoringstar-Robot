@@ -28,7 +28,7 @@ class LuciferMoringstar(object):
 🗣️ ᴍy ꜱᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ : [χяσι∂ ѕυρρσят](t.me/XRoid_Support)"""
 
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """Hello 👋 {mention}\n\n**📝 File Name** : {title}/n/n**🧲 File Size** : {size}/n/n**UPLOADED BY NEX**"""
 
     PR0FESS0R_99 = """
 **αdmín cσmmαndѕ**
